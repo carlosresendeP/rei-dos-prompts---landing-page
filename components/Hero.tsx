@@ -39,7 +39,7 @@ export const Hero: React.FC = () => {
 
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black leading-tight text-white tracking-tight drop-shadow-lg">
             REI DOS{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 via-brand-200 to-white">
+            <span className="text-yellow-400">
               PROMPTS
             </span>
           </h1>
