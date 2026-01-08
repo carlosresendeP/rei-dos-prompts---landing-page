@@ -42,7 +42,7 @@ export const Pricing: React.FC = () => {
             </li>
           </ul>
 
-          <a href="https://kiwify.com.br" target="_blank" rel="noopener noreferrer">
+          <a href="https://pay.kiwify.com.br/xDVLf8E" target="_blank" rel="noopener noreferrer">
             <Button fullWidth pulse className="text-xl">
               COMPRAR AGORA
             </Button>
